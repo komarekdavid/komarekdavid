@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm a high school student based in Kolín, Czech Republic.<br>I'm passionate about web development. In school, I'm learning PHP, but with <br>Python, it's a whole different story – it's been my big hobby since I was 14.<br>🚀 Currently, I'm diving into the world of JavaScript to enhance my skills. <br>My main focus is creating awesome and interactive websites! 💻✨
+👋 Hey there! I'm a high school student based in Kolín, Czech Republic.<br>I'm passionate about web development. In school, I'm learning PHP, but with <br>Python, it's a whole different story – it's been my big hobby since I was 13.<br>🚀 Currently, I'm diving into the world of JavaScript to enhance my skills. <br>My main focus is creating awesome and interactive websites! 💻✨
 
 
 ## 🌐 Socials:
